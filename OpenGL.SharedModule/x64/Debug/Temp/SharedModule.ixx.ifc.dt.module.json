@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.obj",
+            "outputs": [
+                "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.ixx.ifc.dt.module.json",
+                "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.ixx.ifc.dt.d.json",
+                "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "SharedModule",
+                    "source-path": "c:\\users\\user\\desktop\\‏‏lecture5 - نسخة\\lecture5\\opengl.sharedmodule\\src\\abstraction\\sharedmodule.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

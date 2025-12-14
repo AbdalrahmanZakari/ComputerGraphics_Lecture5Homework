@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\OpenGlShape.ixx.obj",
+            "outputs": [
+                "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\OpenGL.SharedModule.pdb",
+                "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\",
+                "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\OpenGlShape.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "OpenGlShape",
+                    "source-path": "c:\\users\\user\\desktop\\‏‏lecture5 - نسخة\\lecture5\\opengl.sharedmodule\\src\\abstraction\\openglshape.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

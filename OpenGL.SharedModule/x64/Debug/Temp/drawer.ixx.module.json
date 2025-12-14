@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\Drawer.ixx.obj",
+            "outputs": [
+                "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\OpenGL.SharedModule.pdb",
+                "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\",
+                "C:\\Users\\User\\Desktop\\‏‏Lecture5 - نسخة\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\Drawer.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Drawer",
+                    "source-path": "c:\\users\\user\\desktop\\‏‏lecture5 - نسخة\\lecture5\\opengl.sharedmodule\\src\\abstraction\\drawer.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "OpenGlShape"
+                }
+            ]
+        }
+    ]
+}
